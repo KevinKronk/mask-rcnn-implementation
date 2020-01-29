@@ -75,7 +75,7 @@ class_names = ['BG', 'person', 'bicycle', 'car', 'motorcycle', 'airplane',
 
 
 # Load a random image from the images folder
-image = skimage.io.imread('..\\images\\2383514521_1fc8d7b0de_z.jpg')
+image = skimage.io.imread('..\\images\\25691390_f9944f61b5_z.jpg')
 
 # original image
 matplotlib.use('TkAgg')
